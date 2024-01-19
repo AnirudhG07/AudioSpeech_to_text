@@ -1,2 +1,4 @@
-This is a repository to know How to convert AudioFile speeches to Text.
-Thanks to AssemblyAI i was able to do this and it is very easy, helpful to do it!!!
+This repository contains basics of pipelines. 
+
+# CodeModels
+I have added codes on how to use code models, for 1 generation. These will be updated from time to time as well.
