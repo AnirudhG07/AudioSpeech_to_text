@@ -16,7 +16,7 @@ Points to Note:
 </ol>
 You can visit of various models in order to know more about them. 
 <ol>
-1. <a href="https://github.com/nlpxucan/WizardLM/blob/main/WizardCoder/src/inference_wizardcoder.py"> Wizard Coder</a>  PS: this has some issues because of which I couldn't run properly in lab machine.<br>
+1. <a href="https://github.com/nlpxucan/WizardLM/blob/main/WizardCoder/src/inference_wizardcoder.py"> Wizard Coder</a>.<br>
 2. <a href="https://github.com/Stability-AI/StableLM"> StableLM-7B</a><br>
 3. <a href="https://github.com/bigcode-project/starcoder"> StarCoder  </a><br>
 4. <a href="https://huggingface.co/bigcode/santacoder"> SantaCoder HuggingFace</a> OR <a href="https://github.com/bigcode-project/Megatron-LM"> SantaCoder GitHub </a><br>
