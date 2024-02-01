@@ -12,7 +12,7 @@ Points to Note:
 <ol>
 1. We need to see whether to use "cpu"(CPU)or "cuda"(GPU) for various models.<br>
 2. Some models code are long and a little scary(I felt so), but thats how these codes are run from their docs, although I have cleaned the bad ones quite a lot.<br>
-3. These functions outputs need to properly taken out based on what FORMAT of output they give. Some models like InCoder, StableLM have a different type of output style compared to CodeGen.<br>
+3. These functions outputs need to properly taken out based on what FORMAT of output they give. Some models like InCoder, StableLM have a different type of output style compared to CodeGen.<br>   
 </ol>
 You can visit of various models in order to know more about them. 
 <ol>
